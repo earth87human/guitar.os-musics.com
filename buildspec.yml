@@ -1,16 +1,6 @@
-phases:
-  install:
-    runtime-versions:
-      python: 3.8
-    commands:
-      - pip install awscli
+version: 0.2
 
-  pre_build:
-    commands:
-      - echo "Installing dependencies"
-  
+phases:
   build:
     commands:
-      - echo "Starting S3 sync"
-      - aws s3 sync public s3://os-musics.com-public/public --delete
-      - echo "S3 sync completed"
+       - aws s3 sync public s3://os-musics.com-public/public --delete
