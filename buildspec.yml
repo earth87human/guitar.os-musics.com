@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.8
+    commands:
+      - pip install awscli
+
+  build:
+    commands:
+      - aws s3 sync public s3://os-musics.com-public/public --delete
