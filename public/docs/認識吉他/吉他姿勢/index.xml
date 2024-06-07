@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>木吉他教學</title>
-    <link>https://guitar.os-musics.com/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/</link>
+    <link>http://localhost:1313/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/</link>
     <description>Recent content on 木吉他教學</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://guitar.os-musics.com/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://guitar.os-musics.com/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/%E5%B7%A6%E6%89%8B%E6%8C%89%E5%BC%A6%E5%A7%BF%E5%8B%A2/</link>
+      <link>http://localhost:1313/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/%E5%B7%A6%E6%89%8B%E6%8C%89%E5%BC%A6%E5%A7%BF%E5%8B%A2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://guitar.os-musics.com/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/%E5%B7%A6%E6%89%8B%E6%8C%89%E5%BC%A6%E5%A7%BF%E5%8B%A2/</guid>
+      <guid>http://localhost:1313/docs/%E8%AA%8D%E8%AD%98%E5%90%89%E4%BB%96/%E5%90%89%E4%BB%96%E5%A7%BF%E5%8B%A2/%E5%B7%A6%E6%89%8B%E6%8C%89%E5%BC%A6%E5%A7%BF%E5%8B%A2/</guid>
       <description> 左手按弦姿勢 # 1 . 左手手型 # 吉他演奏時，有兩種常見的左手手型。演奏時，要根據具體情況、段落，使用合適的手型。&#xA;摇滚手型&#xA;左手大拇指置於琴頸上方，大拇指、食指根部與琴頸接觸，整只手就像是握住琴頸的。&#xA;大拇指悶音、開放和弦、推弦時建議使用搖滾手型。&#xA;古典手型&#xA;左手大拇指指尖朝上地置於琴頸後方。&#xA;虎口與手掌中間是空的，不與琴頸接觸，大拇指與其余四指像鉗子一樣捏著琴頸。&#xA;封閉和弦、食指需要按到低音弦時建議使用古典手型。&#xA;摇滚手型圖示 # 古典手型圖示 # 2 . 左手按弦位置 # 左手按弦有以下幾個重點&#xA;使用指尖觸弦，避免手指觸碰到其他弦上。&#xA;按弦時手指越接近 Fret 越省力，但是注意手指不要按在 Fret 上。&#xA;按弦盡量使指尖與弦垂直，手指關節要凸起來。&#xA;按弦力度適中即可，注意不要過度出力。&#xA;3 . 資料來源 # 民谣吉他的左手握琴方式如何最轻松省力？ </description>
     </item>
   </channel>

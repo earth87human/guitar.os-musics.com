@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>木吉他教學</title>
-    <link>https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/</link>
+    <link>http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/</link>
     <description>Recent content on 木吉他教學</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/%E4%BB%8B%E7%B4%B9/</link>
+      <link>http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/%E4%BB%8B%E7%B4%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/%E4%BB%8B%E7%B4%B9/</guid>
+      <guid>http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/%E4%BB%8B%E7%B4%B9/</guid>
       <description> 音程 Interval # 1 . 音程 # 音程，是指音符与音符之间的距离，也可以理解為音符之間高低的差異。&#xA;音程的单位是度，可以透過x度(比方大家常聽見的八度、五度)，來判斷兩個音符之間相隔多少距離、音高。&#xA;音程的單位也可以是全音/半音，可以透過x個全音/半音(比方説3個半音、2個全音)，來判斷兩個音符之間相隔多少距離、音高。&#xA;2 . 半音 Semitone # </description>
     </item>
     <item>
       <title></title>
-      <link>https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/%E7%B7%B4%E7%BF%92-1/</link>
+      <link>http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/%E7%B7%B4%E7%BF%92-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/%E7%B7%B4%E7%BF%92-1/</guid>
+      <guid>http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E9%9F%B3%E7%A8%8B/%E7%B7%B4%E7%BF%92-1/</guid>
       <description> eeee # </description>
     </item>
   </channel>
