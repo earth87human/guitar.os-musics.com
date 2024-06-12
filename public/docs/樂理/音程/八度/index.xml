@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>木吉他教學</title>
-    <link>http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/</link>
+    <link>https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/</link>
     <description>Recent content on 木吉他教學</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/%E4%BB%8B%E7%B4%B9/</link>
+      <link>https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/%E4%BB%8B%E7%B4%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/%E4%BB%8B%E7%B4%B9/</guid>
-      <description> tets # </description>
+      <guid>https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/%E4%BB%8B%E7%B4%B9/</guid>
+      <description> 樂理教學大綱 # 音符&#xA;基本音符 符點音符 休止符 音名&#xA;音名與音高 半音與全音 十二平均律&#xA;十二平均律的概念 十二平均律在吉他上的應用 音程&#xA;音程的種類 音程的計算方法 五線譜&#xA;五線譜的基本構造 五線譜的閱讀與書寫 六線譜&#xA;六線譜的基本構造 六線譜的閱讀與書寫 節奏與節拍&#xA;拍號與節拍 常見的節奏型 大調與小調&#xA;大調音階與小調音階 調式的概念 和弦&#xA;基本和弦 和弦進行 音階與調式&#xA;音階的種類 音階在吉他上的演奏 和聲與和弦進行&#xA;和聲的基本概念 常見和弦進行 旋律與伴奏&#xA;旋律的構成 伴奏的編寫 樂曲分析&#xA;經典樂曲分析 音樂結構與樂理應用 樂理應用與實踐&#xA;樂理知識在演奏中的應用 不同風格的曲目演奏 </description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/%E7%B7%B4%E7%BF%92-1/</link>
+      <link>https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/%E7%B7%B4%E7%BF%92-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/%E7%B7%B4%E7%BF%92-1/</guid>
+      <guid>https://guitar.os-musics.com/docs/%E6%A8%82%E7%90%86/%E9%9F%B3%E7%A8%8B/%E5%85%AB%E5%BA%A6/%E7%B7%B4%E7%BF%92-1/</guid>
       <description> eeee # </description>
     </item>
   </channel>
