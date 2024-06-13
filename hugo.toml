@@ -1,5 +1,5 @@
 baseURL = 'https://guitar.os-musics.com/'
-languageCode = 'en-us'
+languageCode = 'zh-tw'
 title = '木吉他教學'
 [params]
   BookSearch = false
